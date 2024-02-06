@@ -1,7 +1,7 @@
 
 function Feed() {
   return (
-    <div>Feed</div>
+    <div>Feed new</div>
   )
 }
 
