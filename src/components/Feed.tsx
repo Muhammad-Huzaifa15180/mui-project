@@ -1,8 +1,17 @@
+import { Box } from "@mui/material";
+import Post from "./Post";
 
 function Feed() {
   return (
-    <div>Feed new</div>
-  )
+    <Box>
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+    </Box>
+  );
 }
 
-export default Feed
+export default Feed;
